@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jlouca
+- 👋 Hi, I’m Jane!
 - 👀 I’m interested in developing my skills - html/css/wordpress.  Love all things creative!
 - 🌱 I’m currently learning javaScript(gulp!) 
 - 📫 jlouca21@gmail.com
