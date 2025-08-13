@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jane!
-- 👀 I’m interested in developing my skills - html/css/wordpress.  Love all things creative!
+- 👀 I’m a interested in developing my skills - html/css/js/wordpress.  I love all things creative!
 - 🌱 I’m currently learning javaScript(gulp!) 
 - 📫 jlouca21@gmail.com
 
